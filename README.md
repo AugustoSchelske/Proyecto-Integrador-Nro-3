@@ -17,4 +17,4 @@
 [[Control Cardio](https://docs.google.com/spreadsheets/d/1KM9kaN6VKIaWeG4Nnfo6X18TJsNI5zX63T0PEyNIhsM/edit?gid=0#gid=0)]
 
 ### Presentaciones sobre rutinas y ejercicios para mantener el físico ante cambios alimenticios.
-[[Presentaciones]((https://app.presentations.ai/#/docs/edit/10654423)]
+[[Presentaciones](https://app.presentations.ai/#/docs/edit/10654423)]
